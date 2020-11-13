@@ -7,7 +7,7 @@ body{
 .left{
 	background: url('../pic/images.jpg');
 	position: fixed;
-	width: 100%;
+	width: 30%;
 	height: 100%;
 	top: 0;
 	left: 0;
@@ -32,7 +32,7 @@ a.button{
 .right{
 	background-color: aqua;
 	position: fixed;
-	width: 00%;
+	width: 70%;
 	height: 100%;
 	top: 0;
 	right: 0;
