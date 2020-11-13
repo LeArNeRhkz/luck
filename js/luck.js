@@ -23,7 +23,7 @@ var changeState = function (state) {
 
 			console.log('randomNumber:',randomNumber)
 
-			if (randomNumber >= 9){
+			if (randomNumber >= 0){
 				changeState(4);
 			} else {
 				changeState(5);
